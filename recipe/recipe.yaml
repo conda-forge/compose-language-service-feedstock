@@ -1,5 +1,5 @@
 context:
-  version: 0.2.0
+  version: "0.3.0"
 
 package:
   name: compose-language-service
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@microsoft/compose-language-service/-/compose-language-service-${{ version }}.tgz
-  sha256: 56aa27237794cf45290e7a13448a998a71dfca6582e29ae9b464b6b63fed9833
+  sha256: 0d99731a8268cf62d2082ce5ca0c6f71c3997f450d3a333f22a388b7043ce312
 
 build:
   number: 0
